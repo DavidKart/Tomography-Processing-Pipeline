@@ -21,7 +21,7 @@ Enter the directory containing your raw frames.Clone the repository:
 Unpack everything into your directory:
 ```mv Tomography-Processing-Pipeline/* .```
 
-Edit ```run.py``` accoring to your needs - initialize the necessary parameters according at the top. Importantly, add the paths to the executables. The cryoCARE executables should be in PATH.
+Edit ```run.py``` accoring to your needs - initialize the necessary parameters accordingly at the top. Importantly, add the paths to the executables. The cryoCARE executables should be in PATH.
 
 You will find the denoised tomograms in ```cryoCARE/runForAll/denoised.rec```.
 
