@@ -1,0 +1,13 @@
+{
+  "path": "TX/model/model_name.tar.gz",
+  "even": [
+    "even_blueprint"
+  ],
+  "odd": [
+    "odd_blueprint"
+  ],
+  "n_tiles": [8,8,8],
+  "output": "denoised.rec",
+  "overwrite": true,
+  "gpu_id": [0,1]
+}
